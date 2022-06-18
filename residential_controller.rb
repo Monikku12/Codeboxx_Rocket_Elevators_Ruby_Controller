@@ -23,11 +23,12 @@ class Column
 
 
 
-        createElevators(_amountOfFloors, _amountOfElevators)
-
-
-
-
+        def createElevators(_amountOfFloors, _amountOfElevators)
+            for _amountOfElevators in _amountOfElevators [do]
+                elevator = Elevator(_amountOfElevators+1, _amountOfFloors)
+                @elevatorList.push(elevator)
+            end
+        end
 
 
 
