@@ -1,6 +1,8 @@
 # Rocket-Elevators-Ruby-Controller
 
-This is the first part of the Ruby version. I hope finish it by the end of the weekend. 
+1- This is the first part of the Ruby version. I hope finish it by the end of the weekend. 
+
+2- This up to where I was able to go. I couldn't finished. I was correcting syntax and stuff now. 
 
 # Description
 
